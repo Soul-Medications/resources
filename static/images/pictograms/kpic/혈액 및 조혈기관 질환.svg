@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <defs>
+        <style>
+            .cls-1{fill:#c92622}.cls-2,.cls-4,.cls-5{fill:none}.cls-3{fill:#df2319}.cls-4,.cls-5{stroke:#df2319;stroke-linecap:round;stroke-linejoin:round}.cls-5{stroke:#ee5e55}.cls-6{fill:#7f1916}
+        </style>
+    </defs>
+    <g id="그룹_1749" data-name="그룹 1749" transform="translate(-544.262 -94.514)">
+        <g id="그룹_1748" data-name="그룹 1748" transform="translate(552.18 100.156)">
+            <path id="사각형_2254" d="M0 0h8.88v37.13H0z" class="cls-1" data-name="사각형 2254" transform="translate(12.145 1.604)"/>
+            <g id="그룹_1745" data-name="그룹 1745" transform="translate(12.297 1.805)">
+                <path id="패스_1724" d="M564.632 101.961v35.309h.045c.23.9 2.048 1.6 4.284 1.6s4.054-.7 4.283-1.6h.046v-35.309z" class="cls-2" data-name="패스 1724" transform="translate(-564.632 -101.961)"/>
+            </g>
+            <path id="패스_1725" d="M564.632 101.961v35.309h.045c.23.9 2.048 1.6 4.284 1.6s4.054-.7 4.283-1.6h.046v-35.309z" class="cls-2" data-name="패스 1725" transform="translate(-552.335 -100.156)"/>
+            <ellipse id="타원_541" cx="4.329" cy="1.805" class="cls-3" data-name="타원 541" rx="4.329" ry="1.805" transform="translate(12.297)"/>
+            <g id="그룹_1746" data-name="그룹 1746" transform="translate(20.955 4.181)">
+                <path id="패스_1726" d="M584.489 104.337s-1.307 8.51-5.6 9a6.24 6.24 0 0 0-5.6 4.9" class="cls-4" data-name="패스 1726" transform="translate(-573.29 -104.337)"/>
+                <path id="패스_1727" d="M581.912 111.286a3.535 3.535 0 0 0 3.747-.729" class="cls-4" data-name="패스 1727" transform="translate(-573.29 -104.337)"/>
+                <path id="패스_1728" d="M578.121 109.609a3 3 0 0 0 .768 3.729" class="cls-4" data-name="패스 1728" transform="translate(-573.29 -104.337)"/>
+                <path id="패스_1729" d="M575.244 114.893a5.715 5.715 0 0 0 5.39 1.962" class="cls-4" data-name="패스 1729" transform="translate(-573.29 -104.337)"/>
+                <path id="패스_1730" d="M581.912 104.69c-.312.75-.924 1.927 1.411 3.9" class="cls-4" data-name="패스 1730" transform="translate(-573.29 -104.337)"/>
+            </g>
+            <g id="그룹_1747" data-name="그룹 1747" transform="translate(0 12.866)">
+                <path id="패스_1731" d="M553.5 113.183s1.308 8.51 5.6 9a6.24 6.24 0 0 1 5.6 4.9" class="cls-4" data-name="패스 1731" transform="translate(-552.335 -113.183)"/>
+                <path id="패스_1732" d="M556.081 120.132a3.535 3.535 0 0 1-3.746-.73" class="cls-4" data-name="패스 1732" transform="translate(-552.335 -113.183)"/>
+                <path id="패스_1733" d="M559.872 118.455a3 3 0 0 1-.768 3.729" class="cls-4" data-name="패스 1733" transform="translate(-552.335 -113.183)"/>
+                <path id="패스_1734" d="M562.749 123.739a5.715 5.715 0 0 1-5.39 1.962" class="cls-4" data-name="패스 1734" transform="translate(-552.335 -113.183)"/>
+                <path id="패스_1735" d="M556.081 113.536c.312.749.925 1.927-1.411 3.9" class="cls-4" data-name="패스 1735" transform="translate(-552.335 -113.183)"/>
+            </g>
+            <path id="선_332" d="M0 0v23.506" class="cls-5" data-name="선 332" transform="translate(18.547 4.894)"/>
+            <path id="선_333" d="M0 0v1.16" class="cls-5" data-name="선 333" transform="translate(18.547 29.858)"/>
+            <ellipse id="타원_542" cx="1.859" cy=".483" class="cls-6" data-name="타원 542" rx="1.859" ry=".483" transform="translate(14.727 1.37)"/>
+            <path id="패스_1736" d="M586.5 131.344a4.9 4.9 0 1 1-9.792 0c0-2.7 4.9-7.7 4.9-7.7s4.892 4.996 4.892 7.7z" class="cls-3" data-name="패스 1736" transform="translate(-552.335 -100.466)"/>
+            <path id="패스_1737" d="M584.029 130.825a3.134 3.134 0 0 1-3.134 3.134" class="cls-5" data-name="패스 1737" transform="translate(-552.335 -100.466)"/>
+        </g>
+        <path id="사각형_1945" d="M0 0h49.692v49.692H0z" class="cls-2" data-name="사각형 1945" transform="rotate(-.356 15533.199 -87547.414)"/>
+    </g>
+</svg>

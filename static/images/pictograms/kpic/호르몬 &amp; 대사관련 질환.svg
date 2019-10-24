@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <defs>
+        <style>
+            .cls-1,.cls-2,.cls-4{fill:none}.cls-2{stroke:#c80949}.cls-2,.cls-4{stroke-miterlimit:10;stroke-width:3px}.cls-3{fill:#c80949}.cls-4{stroke:#1d56a4}.cls-5{fill:#1d56a4}
+        </style>
+    </defs>
+    <g id="그룹_1762" data-name="그룹 1762" transform="translate(-610.539 -93.577)">
+        <path id="사각형_1945" d="M0 0h49.692v49.692H0z" class="cls-1" data-name="사각형 1945" transform="rotate(-.356 15415.535 -98215.003)"/>
+        <g id="그룹_1761" data-name="그룹 1761" transform="translate(618.214 102.702)">
+            <circle id="타원_562" cx="7.929" cy="7.929" r="7.929" class="cls-2" data-name="타원 562" transform="translate(18.795 .549)"/>
+            <rect id="사각형_2259" width="2.643" height="15.857" class="cls-3" data-name="사각형 2259" rx="1" transform="translate(25.402 15.484)"/>
+            <rect id="사각형_2260" width="2.643" height="13.214" class="cls-3" data-name="사각형 2260" rx="1" transform="rotate(90 6.081 27.25)"/>
+            <circle id="타원_563" cx="7.929" cy="7.929" r="7.929" class="cls-4" data-name="타원 563" transform="translate(0 14.561)"/>
+            <rect id="사각형_2261" width="2.643" height="14.536" class="cls-5" data-name="사각형 2261" rx="1" transform="translate(6.607 .579)"/>
+            <rect id="사각형_2262" width="2.643" height="10.571" class="cls-5" data-name="사각형 2262" rx="1" transform="rotate(-45 5.288 -6.38)"/>
+            <rect id="사각형_2263" width="2.643" height="10.571" class="cls-5" data-name="사각형 2263" rx="1" transform="rotate(45 3.967 9.571)"/>
+        </g>
+    </g>
+</svg>

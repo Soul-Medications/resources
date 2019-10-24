@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <ellipse id="타원_490" data-name="타원 490" cx="17.433" cy="9.689" rx="17.433" ry="9.689" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="타원_494" data-name="타원 494" cx="9.764" cy="9.764" r="9.764" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="사각형_2056" data-name="사각형 2056" width="4.198" height="12.126" transform="translate(3.027 11.652) rotate(-136.135)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_1534" data-name="그룹 1534" transform="translate(-636.332 -263.524)">
+    <g id="그룹_1533" data-name="그룹 1533" transform="translate(643.755 269.259)">
+      <g id="그룹_1528" data-name="그룹 1528" transform="translate(0 15.401)">
+        <ellipse id="타원_489" data-name="타원 489" cx="17.433" cy="9.689" rx="17.433" ry="9.689" transform="translate(0 3.497)" fill="#fff"/>
+        <g id="그룹_1505" data-name="그룹 1505" transform="translate(0 3.751)">
+          <g id="그룹_1504" data-name="그룹 1504" clip-path="url(#clip-path)">
+            <rect id="사각형_2054" data-name="사각형 2054" width="17.433" height="20.418" transform="translate(17.433)" fill="#efefef"/>
+          </g>
+        </g>
+        <g id="그룹_1527" data-name="그룹 1527" transform="translate(7.669)">
+          <g id="그룹_1526" data-name="그룹 1526" clip-path="url(#clip-path-2)">
+            <ellipse id="타원_491" data-name="타원 491" cx="17.433" cy="9.689" rx="17.433" ry="9.689" transform="translate(-7.669 3.731)" fill="#1c1c1c"/>
+            <g id="그룹_1524" data-name="그룹 1524" transform="translate(-1.465 -1.465)" opacity="0.1">
+              <g id="그룹_1506" data-name="그룹 1506" transform="translate(0 11.229)">
+                <line id="선_238" data-name="선 238" x2="3.673" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+                <line id="선_239" data-name="선 239" x2="3.673" transform="translate(18.786)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+              </g>
+              <g id="그룹_1507" data-name="그룹 1507" transform="translate(0.171 9.279)">
+                <line id="선_240" data-name="선 240" x2="3.617" y2="0.638" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+                <line id="선_241" data-name="선 241" x2="3.617" y2="0.638" transform="translate(18.5 3.262)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+              </g>
+              <g id="그룹_1508" data-name="그룹 1508" transform="translate(0.677 7.388)">
+                <line id="선_242" data-name="선 242" x2="3.451" y2="1.256" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+                <line id="선_243" data-name="선 243" x2="3.451" y2="1.256" transform="translate(17.653 6.425)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+              </g>
+              <g id="그룹_1509" data-name="그룹 1509" transform="translate(1.504 5.615)">
+                <line id="선_244" data-name="선 244" x2="3.181" y2="1.836" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+                <line id="선_245" data-name="선 245" x2="3.181" y2="1.836" transform="translate(16.269 9.393)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+              </g>
+              <g id="그룹_1510" data-name="그룹 1510" transform="translate(2.627 4.011)">
+                <line id="선_246" data-name="선 246" x2="2.813" y2="2.361" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+                <line id="선_247" data-name="선 247" x2="2.813" y2="2.361" transform="translate(14.391 12.075)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+              </g>
+              <g id="그룹_1511" data-name="그룹 1511" transform="translate(4.011 2.627)">
+                <line id="선_248" data-name="선 248" x2="2.361" y2="2.813" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+                <line id="선_249" data-name="선 249" x2="2.361" y2="2.813" transform="translate(12.075 14.391)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+              </g>
+              <g id="그룹_1512" data-name="그룹 1512" transform="translate(5.615 1.504)">
+                <line id="선_250" data-name="선 250" x2="1.836" y2="3.181" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+                <line id="선_251" data-name="선 251" x2="1.836" y2="3.181" transform="translate(9.393 16.269)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+              </g>
+              <g id="그룹_1513" data-name="그룹 1513" transform="translate(7.388 0.677)">
+                <line id="선_252" data-name="선 252" x2="1.256" y2="3.451" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+                <line id="선_253" data-name="선 253" x2="1.256" y2="3.451" transform="translate(6.425 17.653)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+              </g>
+              <g id="그룹_1514" data-name="그룹 1514" transform="translate(9.279 0.171)">
+                <line id="선_254" data-name="선 254" x2="0.638" y2="3.617" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+                <line id="선_255" data-name="선 255" x2="0.638" y2="3.617" transform="translate(3.262 18.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+              </g>
+              <g id="그룹_1515" data-name="그룹 1515" transform="translate(11.229)">
+                <line id="선_256" data-name="선 256" y2="3.673" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+                <line id="선_257" data-name="선 257" y2="3.673" transform="translate(0 18.785)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+              </g>
+              <g id="그룹_1516" data-name="그룹 1516" transform="translate(9.279 0.171)">
+                <line id="선_258" data-name="선 258" x1="0.638" y2="3.617" transform="translate(3.262)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+                <line id="선_259" data-name="선 259" x1="0.638" y2="3.617" transform="translate(0 18.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+              </g>
+              <g id="그룹_1517" data-name="그룹 1517" transform="translate(7.388 0.677)">
+                <line id="선_260" data-name="선 260" x1="1.256" y2="3.451" transform="translate(6.425)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+                <line id="선_261" data-name="선 261" x1="1.256" y2="3.451" transform="translate(0 17.653)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+              </g>
+              <g id="그룹_1518" data-name="그룹 1518" transform="translate(5.615 1.504)">
+                <line id="선_262" data-name="선 262" x1="1.836" y2="3.181" transform="translate(9.393)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+                <line id="선_263" data-name="선 263" x1="1.836" y2="3.181" transform="translate(0 16.269)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+              </g>
+              <g id="그룹_1519" data-name="그룹 1519" transform="translate(4.011 2.627)">
+                <line id="선_264" data-name="선 264" x1="2.361" y2="2.813" transform="translate(12.075)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+                <line id="선_265" data-name="선 265" x1="2.361" y2="2.813" transform="translate(0 14.391)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+              </g>
+              <g id="그룹_1520" data-name="그룹 1520" transform="translate(2.627 4.011)">
+                <line id="선_266" data-name="선 266" x1="2.813" y2="2.361" transform="translate(14.391)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+                <line id="선_267" data-name="선 267" x1="2.813" y2="2.361" transform="translate(0 12.075)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+              </g>
+              <g id="그룹_1521" data-name="그룹 1521" transform="translate(1.504 5.615)">
+                <line id="선_268" data-name="선 268" x1="3.181" y2="1.836" transform="translate(16.269)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+                <line id="선_269" data-name="선 269" x1="3.181" y2="1.836" transform="translate(0 9.393)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+              </g>
+              <g id="그룹_1522" data-name="그룹 1522" transform="translate(0.677 7.388)">
+                <line id="선_270" data-name="선 270" x1="3.451" y2="1.256" transform="translate(17.653)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+                <line id="선_271" data-name="선 271" x1="3.451" y2="1.256" transform="translate(0 6.425)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+              </g>
+              <g id="그룹_1523" data-name="그룹 1523" transform="translate(0.171 9.279)">
+                <line id="선_272" data-name="선 272" x1="3.617" y2="0.638" transform="translate(18.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+                <line id="선_273" data-name="선 273" x1="3.617" y2="0.638" transform="translate(0 3.262)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.25"/>
+              </g>
+            </g>
+            <g id="그룹_1525" data-name="그룹 1525" transform="translate(5.124 4.921)">
+              <circle id="타원_492" data-name="타원 492" cx="4.64" cy="4.64" r="4.64" fill="#fff" opacity="0.2"/>
+              <circle id="타원_493" data-name="타원 493" cx="1.55" cy="1.55" r="1.55" transform="translate(3.09 3.09)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <path id="패스_1403" data-name="패스 1403" d="M643.755,297.847c0-3.425,6.311-9.69,17.433-9.69s17.433,6.265,17.433,9.69" transform="translate(-643.755 -284.66)" fill="none" stroke="#26160d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="패스_1404" data-name="패스 1404" d="M668.909,289.287a5.714,5.714,0,0,0,4.044-2.363" transform="translate(-643.755 -284.66)" fill="none" stroke="#26160d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="패스_1405" data-name="패스 1405" d="M672.426,290.468a5.714,5.714,0,0,0,4.044-2.363" transform="translate(-643.755 -284.66)" fill="none" stroke="#26160d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="패스_1406" data-name="패스 1406" d="M674.774,292.052a5.714,5.714,0,0,0,4.134-2.2" transform="translate(-643.755 -284.66)" fill="none" stroke="#26160d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="그룹_1529" data-name="그룹 1529" transform="translate(7.669 16.242)">
+        <path id="패스_1407" data-name="패스 1407" d="M657.156,290.907a2.962,2.962,0,1,1-5.537-2.108c.582-1.529,4.426-3.3,4.426-3.3S657.738,289.378,657.156,290.907Z" transform="translate(-651.424 -285.501)" fill="#4a9dd8"/>
+        <path id="패스_1408" data-name="패스 1408" d="M655.872,290.082a1.9,1.9,0,0,1-2.446,1.1" transform="translate(-651.424 -285.501)" fill="none" stroke="#9ed0f1" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="그룹_1532" data-name="그룹 1532" transform="translate(12.743)">
+        <path id="패스_1409" data-name="패스 1409" d="M659.865,277.638l.069.067-.967,1.006,3.439,3.306.968-1.006.069.066a1.576,1.576,0,0,0,2.229-.044l4.819-5.013a1.577,1.577,0,0,0-.044-2.229l-3.579-3.439a1.576,1.576,0,0,0-2.229.044l-4.818,5.013A1.576,1.576,0,0,0,659.865,277.638Z" transform="translate(-656.498 -269.259)" fill="#d4edef"/>
+        <path id="패스_1410" data-name="패스 1410" d="M661.7,281.539l-2.545,2.648a1.543,1.543,0,0,1-2.181.043h0a1.543,1.543,0,0,1-.043-2.181l2.545-2.648Z" transform="translate(-656.498 -269.259)" fill="#46606c"/>
+        <rect id="사각형_2055" data-name="사각형 2055" width="6.874" height="1.616" rx="0.338" transform="translate(5.547 14.652) rotate(-136.135)" fill="#253640"/>
+        <g id="그룹_1531" data-name="그룹 1531" transform="translate(0.831)">
+          <g id="그룹_1530" data-name="그룹 1530" clip-path="url(#clip-path-3)">
+            <path id="패스_1411" data-name="패스 1411" d="M659.865,277.638l.069.067-.967,1.006,3.439,3.306.968-1.006.069.066a1.576,1.576,0,0,0,2.229-.044l4.819-5.013a1.577,1.577,0,0,0-.044-2.229l-3.579-3.439a1.576,1.576,0,0,0-2.229.044l-4.818,5.013A1.576,1.576,0,0,0,659.865,277.638Z" transform="translate(-657.328 -269.259)" fill="#c8dede"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect id="사각형_2057" data-name="사각형 2057" width="50" height="50" transform="translate(636.331 263.524)" fill="none"/>
+  </g>
+</svg>

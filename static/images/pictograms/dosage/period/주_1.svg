@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="그룹_2173" data-name="그룹 2173" transform="translate(-106.959 -770.86)">
+    <g id="그룹_2172" data-name="그룹 2172" transform="translate(106.958 770.859)">
+      <rect id="사각형_2604" data-name="사각형 2604" width="50" height="50" fill="none"/>
+      <g id="그룹_2171" data-name="그룹 2171" transform="translate(6.992 7.572)">
+        <path id="사각형_2605" data-name="사각형 2605" d="M6,0H30a6,6,0,0,1,6,6V28a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V6A6,6,0,0,1,6,0Z" transform="translate(0.008 2.857)" fill="none" stroke="#db2819" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="패스_2004" data-name="패스 2004" d="M113.95,787.3a6,6,0,0,1,6-6.005l24-.018a6,6,0,0,1,6,5.995Z" transform="translate(-113.95 -778.431)" fill="#db2819"/>
+        <g id="그룹_2167" data-name="그룹 2167" transform="translate(7.995)">
+          <rect id="사각형_2606" data-name="사각형 2606" width="4" height="5" rx="2" transform="translate(0 0.012)" fill="#fba911"/>
+          <rect id="사각형_2607" data-name="사각형 2607" width="4" height="5" rx="2" transform="translate(16)" fill="#fba911"/>
+        </g>
+        <line id="선_362" data-name="선 362" y1="21.574" x2="31.409" transform="translate(2.417 10.866)" fill="none" stroke="#db2819" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5" opacity="0.2"/>
+        <g id="그룹_2168" data-name="그룹 2168" transform="translate(10.556 17.114)">
+          <path id="패스_2005" data-name="패스 2005" d="M127.218,804.2v-6.924L125.25,798.4l-.744-1.248,2.892-1.608h1.356V804.2Z" transform="translate(-124.506 -795.545)" fill="#030504"/>
+        </g>
+        <g id="그룹_2170" data-name="그룹 2170" transform="translate(16.165 17.028)">
+          <g id="그룹_2169" data-name="그룹 2169">
+            <path id="패스_2006" data-name="패스 2006" d="M138.635,800.159v1.07h-3.619v3.02h-1.271v-3.02h-3.63v-1.07Zm-7.47-4.7h6.42v1.07h-2.56v.079a1.024,1.024,0,0,0,.18.606,1.572,1.572,0,0,0,.61.465q.49.24,1.081.49t1.16.47l-.491.99c-.367-.147-.726-.3-1.08-.45s-.69-.3-1.009-.45a5.784,5.784,0,0,1-.716-.375,1.077,1.077,0,0,1-.355-.315H134.4a1.148,1.148,0,0,1-.38.325,7.091,7.091,0,0,1-.741.385q-.48.22-1.009.45t-1.08.449l-.491-1.009q.57-.22,1.16-.47t1.081-.49a1.576,1.576,0,0,0,.609-.465,1.024,1.024,0,0,0,.181-.606v-.079h-2.561Z" transform="translate(-130.115 -795.459)" fill="#030504"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect id="사각형_2608" data-name="사각형 2608" width="50" height="50" transform="translate(106.958 770.859)" fill="none"/>
+  </g>
+</svg>

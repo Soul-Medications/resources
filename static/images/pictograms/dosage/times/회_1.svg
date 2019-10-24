@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="그룹_1949" data-name="그룹 1949" transform="translate(-106.959 -615.087)">
+    <g id="그룹_1948" data-name="그룹 1948" transform="translate(113.958 622.087)">
+      <g id="그룹_1941" data-name="그룹 1941" transform="translate(17)">
+        <rect id="사각형_2386" data-name="사각형 2386" width="2" height="3" rx="1" fill="#99d7e2"/>
+        <rect id="사각형_2387" data-name="사각형 2387" width="2" height="3" rx="1" transform="translate(0 33)" fill="#99d7e2"/>
+      </g>
+      <g id="그룹_1942" data-name="그룹 1942" transform="translate(4.565 4.565)">
+        <rect id="사각형_2388" data-name="사각형 2388" width="2" height="3" rx="1" transform="translate(0 1.414) rotate(-45)" fill="#99d7e2"/>
+        <rect id="사각형_2389" data-name="사각형 2389" width="2" height="3" rx="1" transform="translate(23.335 24.749) rotate(-45)" fill="#99d7e2"/>
+      </g>
+      <g id="그룹_1943" data-name="그룹 1943" transform="translate(0 17)">
+        <rect id="사각형_2390" data-name="사각형 2390" width="2" height="3" rx="1" transform="translate(0 2) rotate(-90)" fill="#99d7e2"/>
+        <rect id="사각형_2391" data-name="사각형 2391" width="2" height="3" rx="1" transform="translate(33 2) rotate(-90)" fill="#99d7e2"/>
+      </g>
+      <g id="그룹_1944" data-name="그룹 1944" transform="translate(4.565 4.565)">
+        <rect id="사각형_2392" data-name="사각형 2392" width="2" height="3" rx="1" transform="translate(1.414 26.87) rotate(-135)" fill="#99d7e2"/>
+        <rect id="사각형_2393" data-name="사각형 2393" width="2" height="3" rx="1" transform="translate(24.749 3.536) rotate(-135)" fill="#99d7e2"/>
+      </g>
+      <ellipse id="타원_564" data-name="타원 564" cx="18" cy="18" rx="18" ry="18" fill="none" stroke="#40b6b2" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <g id="그룹_1945" data-name="그룹 1945" transform="translate(6.949 13.714)">
+        <path id="패스_1922" data-name="패스 1922" d="M123.392,643.732v-6.347l-1.8,1.034-.681-1.144,2.65-1.474H124.8v7.931Z" transform="translate(-120.907 -635.801)" fill="#1a1818"/>
+      </g>
+      <g id="그룹_1947" data-name="그룹 1947" transform="translate(14.287 13.403)">
+        <g id="그룹_1946" data-name="그룹 1946">
+          <path id="패스_1923" data-name="패스 1923" d="M128.245,642.12h1.234c.384,0,.745,0,1.085-.01v-.69a2.52,2.52,0,0,1-.745-.231,2.025,2.025,0,0,1-.525-.369,1.354,1.354,0,0,1-.41-.97v-.36a1.358,1.358,0,0,1,.14-.591,1.532,1.532,0,0,1,.425-.519,2.234,2.234,0,0,1,.716-.37,3.764,3.764,0,0,1,2.034,0,2.236,2.236,0,0,1,.72.37,1.532,1.532,0,0,1,.425.519,1.358,1.358,0,0,1,.14.591v.36a1.354,1.354,0,0,1-.41.97,2.025,2.025,0,0,1-.525.369,2.509,2.509,0,0,1-.735.231v.67c.5-.014.941-.031,1.325-.055s.732-.052,1.045-.085l.09,1.06q-.429.05-.995.085c-.376.023-.81.042-1.3.054s-1.043.024-1.66.031-1.309.009-2.074.009Zm2.319-5.61v-1.02h1.25v1.02h2.01v1.06h-5.39v-1.06Zm.62,2.35a1.77,1.77,0,0,0-.505.065,1,1,0,0,0-.349.175.707.707,0,0,0-.2.245.6.6,0,0,0-.065.265v.119a.591.591,0,0,0,.065.271.721.721,0,0,0,.2.24,1,1,0,0,0,.349.175,1.77,1.77,0,0,0,.505.064,1.262,1.262,0,0,0,.85-.239.686.686,0,0,0,.27-.511v-.119a.686.686,0,0,0-.27-.51A1.251,1.251,0,0,0,131.184,638.86Zm4.731,5.95h-1.25v-9.3h1.25Z" transform="translate(-128.245 -635.49)" fill="#535453"/>
+        </g>
+      </g>
+      <path id="패스_1924" data-name="패스 1924" d="M137.92,639.881l2.054,2.053a.532.532,0,0,0,.754,0l2.054-2.053a.534.534,0,0,0-.377-.911H138.3A.534.534,0,0,0,137.92,639.881Z" transform="translate(-113.958 -622.087)" fill="#d6001b"/>
+    </g>
+    <rect id="사각형_2394" data-name="사각형 2394" width="50" height="50" transform="translate(106.958 615.087)" fill="none"/>
+  </g>
+</svg>

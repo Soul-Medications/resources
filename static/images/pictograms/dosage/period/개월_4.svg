@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="그룹_2236" data-name="그룹 2236" transform="translate(-285.473 -819.45)">
+    <g id="그룹_2235" data-name="그룹 2235" transform="translate(285.472 819.45)">
+      <rect id="사각형_2649" data-name="사각형 2649" width="50" height="50" fill="none"/>
+      <g id="그룹_2234" data-name="그룹 2234" transform="translate(6.992 7.572)">
+        <path id="사각형_2650" data-name="사각형 2650" d="M6,0H30a6,6,0,0,1,6,6V28a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V6A6,6,0,0,1,6,0Z" transform="translate(0.007 2.857)" fill="none" stroke="#db2819" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="패스_2031" data-name="패스 2031" d="M292.464,835.893a6,6,0,0,1,6-6.005l24-.018a6,6,0,0,1,6,5.995Z" transform="translate(-292.464 -827.022)" fill="#db2819"/>
+        <g id="그룹_2230" data-name="그룹 2230" transform="translate(7.995)">
+          <rect id="사각형_2651" data-name="사각형 2651" width="4" height="5" rx="2" transform="translate(0 0.012)" fill="#fba911"/>
+          <rect id="사각형_2652" data-name="사각형 2652" width="4" height="5" rx="2" transform="translate(16)" fill="#fba911"/>
+        </g>
+        <line id="선_371" data-name="선 371" y1="21.574" x2="31.409" transform="translate(2.417 10.866)" fill="none" stroke="#db2819" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5" opacity="0.2"/>
+        <g id="그룹_2231" data-name="그룹 2231" transform="translate(9.391 17.114)">
+          <path id="패스_2032" data-name="패스 2032" d="M307.675,847.16v2.592h1.176v1.236h-1.176v1.8h-1.511v-1.8h-4.309v-1l3.937-5.856h1.656l-3.781,5.616h2.5V847.16Z" transform="translate(-301.855 -844.136)" fill="#030504"/>
+        </g>
+        <g id="그룹_2233" data-name="그룹 2233" transform="translate(16.544 16.518)">
+          <g id="그룹_2232" data-name="그룹 2232">
+            <path id="패스_2033" data-name="패스 2033" d="M309.008,843.92h4.35v1.04h-3.109v1.83q.529,0,1-.006c.313,0,.618-.01.915-.019s.594-.027.894-.05.61-.052.931-.085l.109,1.019c-.3.04-.615.073-.944.1s-.7.041-1.1.055-.849.021-1.345.024-1.065.006-1.705.006Zm7,4.64v2.66h-4.59v.71h4.871v1H310.2v-2.66h4.59v-.71h-4.641v-1Zm0-3.321h1.22v1.1h-1.22v1.8h-1.259v-4.6h1.259Z" transform="translate(-309.008 -843.54)" fill="#030504"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect id="사각형_2653" data-name="사각형 2653" width="50" height="50" transform="translate(285.472 819.45)" fill="none"/>
+  </g>
+</svg>
