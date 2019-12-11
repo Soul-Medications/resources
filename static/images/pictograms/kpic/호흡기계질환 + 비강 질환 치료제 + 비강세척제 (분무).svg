@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <defs>
+        <style>
+            .cls-1{fill:#48a4dd}.cls-2{fill:#4ca7df}.cls-3,.cls-6{fill:none}.cls-3{stroke:#9ed0f1;stroke-linecap:round;stroke-miterlimit:10;stroke-width:2px}.cls-4{fill:#3cc1f4}.cls-5{fill:#62bfec}
+        </style>
+    </defs>
+    <g id="그룹_3208" data-name="그룹 3208" transform="translate(-1246.495 -244.11)">
+        <g id="그룹_3207" data-name="그룹 3207">
+            <g id="그룹_3206" data-name="그룹 3206">
+                <path id="패스_3613" d="M1270.724 255.982v28.88h-.058a11.27 11.27 0 0 1-11.206-11.323c.04-5.891 10.197-16.46 11.264-17.557z" class="cls-1" data-name="패스 3613"/>
+                <path id="패스_3614" d="M1281.988 273.656a11.263 11.263 0 0 1-11.264 11.206v-28.88l.095-.1s11.205 11.554 11.169 17.774z" class="cls-2" data-name="패스 3614"/>
+                <path id="패스_3615" d="M1278.957 273.613a7.208 7.208 0 0 1-7.246 7.17" class="cls-3" data-name="패스 3615"/>
+            </g>
+            <path id="패스_3616" d="M1281.351 267.829s5.308-1.235 7.933-.048c2.956 1.336 2.336 4.532.572 4.617-2.278.11-3.21-2.617-8.505-4.569z" class="cls-4" data-name="패스 3616"/>
+            <path id="패스_3617" d="M1259.772 266.489s-5.328 1.145-7.2 3.337c-2.1 2.468-.181 5.1 1.451 4.421 2.109-.871 1.791-3.736 5.749-7.758z" class="cls-4" data-name="패스 3617"/>
+            <path id="패스_3618" d="M1278.173 262.207s.948-5.367 3.07-7.315c2.39-2.194 5.085-.369 4.472 1.287-.794 2.138-3.668 1.921-7.542 6.028z" class="cls-1" data-name="패스 3618"/>
+            <path id="패스_3619" d="M1259.772 260.291s-2.979-2.341-3.477-4.281c-.561-2.184 1.442-3.238 2.255-2.319 1.05 1.188-.022 2.88 1.222 6.6z" class="cls-5" data-name="패스 3619"/>
+            <circle id="타원_849" cx="1.507" cy="1.507" r="1.507" class="cls-4" data-name="타원 849" transform="translate(1254.204 261.302)"/>
+            <circle id="타원_850" cx="1.507" cy="1.507" r="1.507" class="cls-4" data-name="타원 850" transform="translate(1283.332 260.7)"/>
+            <circle id="타원_851" cx=".964" cy=".964" r=".964" class="cls-4" data-name="타원 851" transform="translate(1284.295 274.276)"/>
+            <circle id="타원_852" cx=".964" cy=".964" r=".964" class="cls-4" data-name="타원 852" transform="translate(1262.361 257.08)"/>
+        </g>
+        <path id="사각형_2985" d="M0 0h50v50H0z" class="cls-6" data-name="사각형 2985" transform="translate(1246.495 244.11)"/>
+    </g>
+</svg>
