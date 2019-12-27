@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:#fff;stroke-linejoin:round}.cls-1{stroke:#c3c3c3;stroke-width:2px}.cls-3{fill:#ff2727}.cls-4{fill:none}.cls-5,.cls-6{stroke:none}.cls-6{fill:#c3c3c3}
+        </style>
+    </defs>
+    <g id="그룹_3374" data-name="그룹 3374" transform="translate(-684.001 -885)">
+        <g id="그룹_3373" data-name="그룹 3373" transform="translate(-30 -6)">
+            <g id="그룹_3372" data-name="그룹 3372" transform="translate(34.423 4.131)">
+                <g id="사각형_3069" class="cls-1" data-name="사각형 3069" transform="rotate(34 -1099.837 1617.168)">
+                    <rect width="7.928" height="19.253" class="cls-5" rx="3.964"/>
+                    <rect width="5.928" height="17.253" x="1" y="1" class="cls-4" rx="2.964"/>
+                </g>
+                <g id="패스_3902" class="cls-2" data-name="패스 3902">
+                    <path d="M23.76 30.916H12.24C6.042 30.916 1 24.72 1 17.106V8h34v9.106c0 7.614-5.042 13.81-11.24 13.81z" class="cls-5" transform="translate(686.85 897.001)"/>
+                    <path d="M2 9v8.106c0 3.492 1.11 6.758 3.127 9.198 1.925 2.329 4.45 3.612 7.113 3.612h11.52c2.662 0 5.188-1.283 7.113-3.612C32.89 23.864 34 20.598 34 17.106V9H2M0 7h36v10.106c0 8.179-5.48 14.81-12.24 14.81H12.24C5.48 31.916 0 25.285 0 17.106V7z" class="cls-6" transform="translate(686.85 897.001)"/>
+                </g>
+                <g id="패스_3901" class="cls-2" data-name="패스 3901">
+                    <path d="M25.977 5.795H-2.507L-.533 1h24.536l1.974 4.795z" class="cls-5" transform="translate(693.364 924.701)"/>
+                    <path d="M.137 2l-1.15 2.795h25.497L23.334 2H.136m-1.34-2h25.876l2.797 6.795H-4L-1.203 0z" class="cls-6" transform="translate(693.364 924.701)"/>
+                </g>
+                <path id="합치기_26" d="M-17394-2742a1 1 0 0 1-1-1v-2h-2a1 1 0 0 1-1-1v-2a1 1 0 0 1 1-1h2v-2a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v2h2a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-2v2a1 1 0 0 1-1 1z" class="cls-3" data-name="합치기 26" transform="translate(18097.578 3661.869)"/>
+            </g>
+            <path id="사각형_3070" d="M0 0h50v50H0z" class="cls-4" data-name="사각형 3070" transform="translate(714.001 891)"/>
+        </g>
+    </g>
+</svg>
